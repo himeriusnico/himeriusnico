@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/himeriusnico/himeriusnico/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/himeriusnico/himeriusnico/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
