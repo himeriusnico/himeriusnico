@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I’m a student currently pursuing a degree in Informatics.<br>I have a huge interest in blockchain technology 🤩 and love exploring how it can shape the future of tech.<br><br>💻 I’m also passionate about learning new things, building projects, and growing as a developer.</h4>
+<h2 align="left">I’m a student currently pursuing a degree in Informatics.<br>I have a huge interest in blockchain technology 🤩 and love exploring how it can shape the future of tech.<br><br>💻 I’m also passionate about learning new things, building projects, and growing as a developer.</h2>
 
 ###
 
