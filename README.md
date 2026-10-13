@@ -23,7 +23,7 @@ I build web apps end to end: the database, the backend, the payments, the server
 
 ## What I actually do
 
-**Laravel, but properly.** Livewire 3, Filament, Alpine.js, MySQL. Admin panels, dashboards, business systems, the works.
+**Laravel, but properly.** Livewire, Filament, Alpine.js, MySQL. Admin panels, dashboards, business systems, the works.
 
 **Money stuff, carefully.** Midtrans and NowPayments integrations, `DECIMAL(18,4)` money columns, and ledger-first stock tracking. Floats are not invited.
 
@@ -61,8 +61,6 @@ I build web apps end to end: the database, the backend, the payments, the server
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
