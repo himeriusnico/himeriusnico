@@ -80,9 +80,6 @@ git commit -m "pls"
 
 ---
 
-Open to freelance work and collaboration. If your app is on fire, I bring the fire extinguisher (and `php artisan optimize:clear`).
----
-
 <p align="left">📫 Open to freelance work and collaboration — feel free to reach out!</p>
 
 ###
