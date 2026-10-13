@@ -1,46 +1,64 @@
-<h1 align="left">👋 Hi, I’m Nico</h1>
+<h1 align="left">👋 Hi, I'm Nico</h1>
 
-###
+<p align="left">
+Informatics student and Laravel developer from Indonesia 🇮🇩 — I build and ship real web apps, from database design to payments to deployment.<br>
+Blockchain & Web3 nerd on the side 🔗📈
+</p>
 
-<p align="left">I’m a student currently pursuing a degree in Informatics.<br>I have a huge interest in blockchain technology 🤩 and love exploring how it can shape the future of tech.<br><br>💻 I’m also passionate about learning new things, building projects, and growing as a developer.</p>
+---
 
-###
+<h2 align="left">⚡ What I do</h2>
 
-<h2 align="left">About me</h2>
+- 🧱 **Full-stack Laravel** — Livewire 3, Filament, Alpine.js, MySQL
+- 💳 **Payments & integrations** — Midtrans, NowPayments (crypto), Discord OAuth, third-party APIs
+- 🖥️ **Deployment & ops** — VPS (KVM) and shared hosting, staging/production setups, Docker
+- 🧮 **Data that has to be right** — ledger-first stock tracking, precise money handling, reporting and analytics (exploring ClickHouse alongside MySQL)
+- 🤖 **AI tooling** — WhatsApp reminder bot on Gemini API, custom MCP servers that hook LLMs into local Laravel projects
 
-###
+<h2 align="left">🛠️ Things I've built</h2>
 
-<p align="left">🔗 Huge interest in Blockchain & Web3 technologies 🤩<br><br>💻 Exploring the world of software development, currently working with Laravel, PHP, Docker, and eager to dive deeper into React, TypeScript, Angular, and Ionic (prolly also next.js)<br><br>🚀 Always curious and learning — from backend logic to deployment and beyond<br><br>📚 Passionate about building projects, solving problems, and sharing what I learn along the way</p>
+- 🔐 **Gated membership platform** for a crypto creator — Discord login, crypto + local payment gateways, role-based access
+- 📊 **Crypto & macro dashboards** — BTC on-chain metrics (NUPL, 200W heatmap, active addresses), dominance, TOTAL1/2/3, cycle-to-cycle comparison, plus FRED macro data (yield curve, NFP, recession indicators)
+- 💬 **WhatsApp AI reminder bot** — native PHP + Gemini API
+- 🏢 **Business systems** — inventory, expense categories, and accounting-style apps for real clients
 
-###
+<h2 align="left">🌱 Currently exploring</h2>
 
-<h2 align="left">I code with</h2>
+- AI engineering — local LLMs, real-time speech-to-text & translation
+- React / TypeScript / Next.js
+- IoT side projects
 
-###
+---
+
+<h2 align="left">🧰 Tech stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="livewire logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" height="40" alt="alpinejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
+
+---
+
+<p align="left">📫 Open to freelance work and collaboration — feel free to reach out!</p>
 
 ###
 
