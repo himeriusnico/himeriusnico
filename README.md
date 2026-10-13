@@ -67,30 +67,6 @@ I build web apps end to end: the database, the backend, the payments, the server
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
 
----
-
-## Meme corner
-
-```
-Client:   "It's a small change."
-Me:       *opens migration folder*
-Database: "Hello darkness, my old friend."
-```
-
-```
-Me in 2017:  "Bitcoin is a scam."
-Me in 2021:  "Bitcoin is the future."
-Me in 2022:  "Bitcoin is a scam."
-Me now:      *builds 14 BTC charts to understand my own feelings*
-```
-
-```
-Junior dev:  "Why does the total show 0.30000000000000004?"
-Me:          "You used float for money, didn't you."
-Junior dev:  "..."
-Me:          "DECIMAL(18,4). Always."
-```
-
 ```
 git commit -m "final fix"
 git commit -m "final fix 2"
