@@ -1,61 +1,112 @@
-<h1 align="left">👋 Hi, I'm Nico</h1>
+# Hi, I'm Nico
+
+```php
+<?php
+
+class Nico extends Developer
+{
+    public string $location  = 'Indonesia';
+    public string $degree    = 'Informatics (graduated, finally)';
+    public string $role      = 'Laravel developer who actually ships';
+    public array  $fuel      = ['coffee', 'Stack Overflow', 'BTC charts at 2 AM'];
+
+    public function bugs(): string
+    {
+        return 'It works on my machine. Deploying my machine.';
+    }
+}
+```
+
+I build web apps end to end: the database, the backend, the payments, the server it runs on, and the 3 AM hotfix after it goes live. Also deeply into blockchain, mostly for the tech and partly for the emotional damage.
+
+---
+
+## What I actually do
+
+**Laravel, but properly.** Livewire 3, Filament, Alpine.js, MySQL. Admin panels, dashboards, business systems, the works.
+
+**Money stuff, carefully.** Midtrans and NowPayments integrations, `DECIMAL(18,4)` money columns, and ledger-first stock tracking. Floats are not invited.
+
+**Servers.** VPS and shared hosting, staging and production, Docker. Yes, I have run `chmod 777` once. No, we don't talk about it.
+
+**Auth & APIs.** Discord OAuth, role-gated access, and whatever third-party API the client found last night.
+
+## Things I've shipped
+
+- **Crypto membership platform**: Discord login, crypto and local payments, role-based gated content
+- **Crypto & macro charts**: BTC on-chain metrics (NUPL, 200W heatmap, rainbow), dominance, TOTAL1/2/3, cycle-to-cycle comparison, FRED macro data. Because staring at one chart is never enough.
+- **Business systems** for real clients: inventory, expenses, accounting-flavored apps where the numbers have to match
+
+## Currently exploring
+
+- AI engineering
+- Software development (the "never stop learning" kind, not the "I'll learn it tomorrow" kind)
+- Robotics *(soon, once my wallet agrees)*
+
+---
+
+## Stack
 
 <p align="left">
-Informatics student and Laravel developer from Indonesia 🇮🇩 — I build and ship real web apps, from database design to payments to deployment.<br>
-Blockchain & Web3 nerd on the side 🔗📈
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="livewire" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" height="40" alt="alpinejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
 
 ---
 
-<h2 align="left">⚡ What I do</h2>
+## Meme corner
 
-- 🧱 **Full-stack Laravel** — Livewire 3, Filament, Alpine.js, MySQL
-- 💳 **Payments & integrations** — Midtrans, NowPayments (crypto), Discord OAuth, third-party APIs
-- 🖥️ **Deployment & ops** — VPS (KVM) and shared hosting, staging/production setups, Docker
-- 🧮 **Data that has to be right** — ledger-first stock tracking, precise money handling, reporting and analytics (exploring ClickHouse alongside MySQL)
-- 🤖 **AI tooling** — WhatsApp reminder bot on Gemini API, custom MCP servers that hook LLMs into local Laravel projects
+```
+Client:   "It's a small change."
+Me:       *opens migration folder*
+Database: "Hello darkness, my old friend."
+```
 
-<h2 align="left">🛠️ Things I've built</h2>
+```
+Me in 2017:  "Bitcoin is a scam."
+Me in 2021:  "Bitcoin is the future."
+Me in 2022:  "Bitcoin is a scam."
+Me now:      *builds 14 BTC charts to understand my own feelings*
+```
 
-- 🔐 **Gated membership platform** for a crypto creator — Discord login, crypto + local payment gateways, role-based access
-- 📊 **Crypto & macro dashboards** — BTC on-chain metrics (NUPL, 200W heatmap, active addresses), dominance, TOTAL1/2/3, cycle-to-cycle comparison, plus FRED macro data (yield curve, NFP, recession indicators)
-- 💬 **WhatsApp AI reminder bot** — native PHP + Gemini API
-- 🏢 **Business systems** — inventory, expense categories, and accounting-style apps for real clients
+```
+Junior dev:  "Why does the total show 0.30000000000000004?"
+Me:          "You used float for money, didn't you."
+Junior dev:  "..."
+Me:          "DECIMAL(18,4). Always."
+```
 
-<h2 align="left">🌱 Currently exploring</h2>
+```
+git commit -m "final fix"
+git commit -m "final fix 2"
+git commit -m "ok this one is actually final"
+git commit -m "pls"
+```
 
-- AI engineering — local LLMs, real-time speech-to-text & translation
-- React / TypeScript / Next.js
-- IoT side projects
+<p align="left">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random dev joke" />
+</p>
 
 ---
 
-<h2 align="left">🧰 Tech stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="livewire logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" height="40" alt="alpinejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
+Open to freelance work and collaboration. If your app is on fire, I bring the fire extinguisher (and `php artisan optimize:clear`).
 ---
 
 <p align="left">📫 Open to freelance work and collaboration — feel free to reach out!</p>
